@@ -1,0 +1,13 @@
+<INVOICE>
+    <INVOICENO></INVOICENO>
+    <AMOUNT></AMOUNT>
+    <INVOICEDATE></INVOICEDATE>
+    <PO></PO>
+    <PAN></PAN>
+    <GSTIN></GSTIN>
+    <VENDOR></VENDOR>
+    <ITEMS>
+        <ITEM id='' t='' l='' w='' h='' f='' val='' ></ITEM>
+    </ITEMS>
+</INVOICE>
+[A-Za-z]{5}\d{4}[A-Za-z]{1}

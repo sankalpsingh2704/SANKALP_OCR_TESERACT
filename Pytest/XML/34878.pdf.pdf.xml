@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<iqss>
+
+
+    <dataarea id="1" t="879" l="105" w="45" h="11" f="0" val="Location" />
+
+    <dataarea id="2" t="879" l="151" w="32" h="10" f="1" val="Name" />
+
+    <dataarea id="3" t="874" l="310" w="79" h="10" f="1" val="Coimbatore T2" />
+
+    <dataarea id="4" t="899" l="105" w="35" h="10" f="1" val="Inward" />
+
+    <dataarea id="5" t="896" l="144" w="23" h="12" f="2" val="Date" />
+
+    <dataarea id="6" t="892" l="302" w="26" h="17" f="3" val="14]" />
+
+    <dataarea id="7" t="897" l="333" w="9" h="10" f="1" val="1;" />
+
+    <dataarea id="8" t="891" l="349" w="51" h="18" f="4" val="J¥eib" />
+
+    <dataarea id="9" t="918" l="105" w="48" h="9" f="5" val="Received" />
+
+    <dataarea id="10" t="918" l="157" w="13" h="10" f="1" val="By" />
+
+    <dataarea id="11" t="974" l="107" w="11" h="13" f="6" val="Inv" />
+
+    <dataarea id="12" t="327" l="0" w="918" h="1211" f="7" val="|" />
+
+    <dataarea id="13" t="972" l="136" w="9" h="10" f="1" val="and" />
+
+    <dataarea id="14" t="978" l="163" w="2" h="6" f="8" val=".a" />
+
+    <dataarea id="15" t="972" l="177" w="16" h="13" f="9" val="ver" />
+
+    <dataarea id="16" t="977" l="196" w="21" h="7" f="10" val="gate" />
+
+    <dataarea id="17" t="975" l="222" w="9" h="8" f="11" val="to" />
+
+    <dataarea id="18" t="975" l="235" w="43" h="11" f="0" val="Projects" />
+
+    <dataarea id="19" t="994" l="108" w="5" h="8" f="11" val="in" />
+
+    <dataarea id="20" t="996" l="120" w="2" h="3" f="12" val="c" />
+
+    <dataarea id="21" t="996" l="180" w="11" h="4" f="12" val="v" />
+
+    <dataarea id="22" t="993" l="196" w="59" h="11" f="0" val="by Security" />
+
+    <dataarea id="23" t="992" l="302" w="29" h="11" f="0" val="2p)." />
+
+    <dataarea id="24" t="996" l="343" w="5" h="5" f="13" val="s" />
+
+    <dataarea id="25" t="327" l="0" w="918" h="1211" f="7" val="|" />
+
+    <dataarea id="26" t="1010" l="102" w="25" h="17" f="3" val="Sign" />
+
+    <dataarea id="27" t="1009" l="134" w="9" h="14" f="9" val="at" />
+
+    <dataarea id="28" t="1009" l="148" w="51" h="15" f="14" val="FSIPMISK" />
+
+    <dataarea id="29" t="1008" l="300" w="16" h="19" f="15" val="Y" />
+
+    <dataarea id="30" t="1007" l="323" w="32" h="26" f="16" val="FP" />
+
+    <dataarea id="31" t="1031" l="103" w="40" h="16" f="17" val="[impact" />
+
+    <dataarea id="32" t="1031" l="147" w="43" h="10" f="1" val="MY MCS" />
+
+    <dataarea id="33" t="1032" l="194" w="37" h="9" f="5" val="Call No" />
+
+    <dataarea id="34" t="327" l="0" w="918" h="1211" f="7" val="|" />
+
+    <dataarea id="35" t="327" l="0" w="918" h="1211" f="7" val="impact" />
+
+    <dataarea id="36" t="327" l="0" w="918" h="1211" f="7" val="MY" />
+
+    <dataarea id="37" t="1043" l="104" w="152" h="5" f="8" val="MLB" />
+
+    <dataarea id="38" t="327" l="0" w="918" h="1211" f="7" val="Lat" />
+
+    <dataarea id="39" t="327" l="0" w="918" h="1211" f="7" val="MQ" />
+
+    <dataarea id="40" t="327" l="0" w="918" h="1211" f="7" val="__" />
+
+    <dataarea id="41" t="1042" l="265" w="14" h="2" f="18" val="n" />
+
+    <dataarea id="42" t="1051" l="117" w="14" h="10" f="1" val=" All" />
+
+    <dataarea id="43" t="1051" l="135" w="38" h="12" f="2" val="Project" />
+
+    <dataarea id="44" t="1050" l="176" w="41" h="10" f="1" val="Material" />
+
+    <dataarea id="45" t="1050" l="220" w="25" h="8" f="11" val="to be" />
+
+    <dataarea id="46" t="1049" l="251" w="23" h="7" f="10" val="eco." />
+
+    <dataarea id="47" t="1050" l="287" w="11" h="6" f="19" val="co" />
+
+    <dataarea id="48" t="1050" l="303" w="49" h="9" f="5" val="oy PMIFS" />
+
+    <dataarea id="49" t="1046" l="356" w="36" h="11" f="0" val="Except" />
+
+    <dataarea id="50" t="1045" l="396" w="9" h="10" f="1" val="in" />
+
+    <dataarea id="51" t="1062" l="205" w="1" h="1" f="20" val="-" />
+
+    <dataarea id="52" t="1064" l="217" w="90" h="11" f="0" val="EmergencyCalls" />
+
+    <dataarea id="53" t="623" l="747" w="56" h="5" f="13" val="s" />
+
+
+
+
+
+</iqss>

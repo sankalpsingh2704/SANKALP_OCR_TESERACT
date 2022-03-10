@@ -1,0 +1,116 @@
+{
+    "GSTIN": [],
+    "InvoiceDate": [],
+    "InvoiceID": [
+        {
+            "cid": 62,
+            "count": 6,
+            "pid": 27,
+            "type": "pos"
+        },
+        {
+            "cid": 62,
+            "count": 6,
+            "pid": 29,
+            "type": "pos"
+        },
+        {
+            "cid": 62,
+            "count": 6,
+            "pid": 30,
+            "type": "pos"
+        },
+        {
+            "cid": 62,
+            "count": 6,
+            "pid": 31,
+            "type": "pos"
+        },
+        {
+            "cid": 43,
+            "count": 2,
+            "pid": 24,
+            "type": "pos"
+        },
+        {
+            "cid": 43,
+            "count": 2,
+            "pid": 29,
+            "type": "pos"
+        },
+        {
+            "cid": 43,
+            "count": 2,
+            "pid": 30,
+            "type": "pos"
+        },
+        {
+            "cid": 43,
+            "count": 2,
+            "pid": 31,
+            "type": "pos"
+        },
+        {
+            "cid": 126,
+            "count": 1,
+            "pid": 27,
+            "type": "pos"
+        },
+        {
+            "cid": 126,
+            "count": 1,
+            "pid": 29,
+            "type": "pos"
+        },
+        {
+            "cid": 126,
+            "count": 1,
+            "pid": 30,
+            "type": "pos"
+        },
+        {
+            "cid": 126,
+            "count": 1,
+            "pid": 31,
+            "type": "pos"
+        },
+        {
+            "cid": 127,
+            "count": 1,
+            "pid": 19,
+            "type": "pro"
+        },
+        {
+            "cid": 127,
+            "count": 2,
+            "pid": 20,
+            "type": "pro"
+        },
+        {
+            "cid": 127,
+            "count": 1,
+            "pid": 24,
+            "type": "pos"
+        },
+        {
+            "cid": 127,
+            "count": 1,
+            "pid": 29,
+            "type": "pos"
+        },
+        {
+            "cid": 127,
+            "count": 1,
+            "pid": 30,
+            "type": "pos"
+        },
+        {
+            "cid": 127,
+            "count": 1,
+            "pid": 31,
+            "type": "pos"
+        }
+    ],
+    "PAN": [],
+    "PO": []
+}

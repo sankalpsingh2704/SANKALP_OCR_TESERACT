@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<iqss>
+    <dataarea id="1" t="63" l="443" w="106" h="21" f="0" val="Wadpack" />
+
+    <dataarea id="2" t="66" l="76" w="22" h="32" f="1" val="\" />
+
+    <dataarea id="3" t="119" l="412" w="36" h="13" f="2" val="TAX" />
+
+    <dataarea id="4" t="120" l="455" w="71" h="14" f="3" val="INVOICE" />
+
+    <dataarea id="5" t="124" l="722" w="82" h="12" f="4" val="Quadruplicate:" />
+
+    <dataarea id="6" t="125" l="808" w="29" h="9" f="5" val="Extra" />
+
+    <dataarea id="7" t="127" l="841" w="29" h="11" f="6" val="Copy" />
+
+    <dataarea id="8" t="135" l="46" w="51" h="12" f="4" val="Invoice" />
+
+    <dataarea id="9" t="137" l="103" w="22" h="11" f="6" val="No." />
+
+    <dataarea id="10" t="140" l="132" w="2" h="8" f="7" val=":" />
+
+    <dataarea id="11" t="138" l="140" w="104" h="13" f="2" val="1718/FG-04157" />
+
+    <dataarea id="12" t="142" l="366" w="60" h="10" f="8" val="WADPACK" />
+
+    <dataarea id="13" t="143" l="431" w="101" h="10" f="5" val="PRivATE LiMITED" />
+
+    <dataarea id="14" t="161" l="45" w="24" h="9" f="5" val="Date" />
+
+    <dataarea id="15" t="169" l="366" w="122" h="11" f="6" val="MFRS-CORRUGATED" />
+
+    <dataarea id="16" t="171" l="492" w="81" h="10" f="5" val="FIBRE BOARD" />
+
+    <dataarea id="17" t="173" l="576" w="78" h="10" f="8" val="CoNTaiNERS" />
+
+    <dataarea id="18" t="191" l="365" w="85" h="12" f="6" val="SW-20, Apparel" />
+
+    <dataarea id="19" t="193" l="455" w="27" h="10" f="8" val="Park," />
+
+    <dataarea id="20" t="194" l="487" w="36" h="9" f="5" val="KIADB" />
+
+    <dataarea id="21" t="195" l="527" w="84" h="12" f="8" val="Industrial Area," />
+
+    <dataarea id="22" t="197" l="616" w="157" h="14" f="6" val="Archall-Guddadahili Village" />
+
+    <dataarea id="23" t="215" l="365" w="71" h="12" f="4" val="Dodballapur," />
+
+    <dataarea id="24" t="216" l="440" w="119" h="12" f="8" val="BANGALORE RURAL" />
+
+    <dataarea id="25" t="219" l="563" w="118" h="11" f="6" val="KARNATAKA-561203" />
+
+    <dataarea id="26" t="230" l="43" w="117" h="11" f="6" val="COMMISSIONERATE" />
+
+    <dataarea id="27" t="234" l="164" w="2" h="6" f="9" val=":" />
+
+    <dataarea id="28" t="232" l="171" w="72" h="10" f="8" val="BANGALORE" />
+
+    <dataarea id="29" t="234" l="248" w="42" h="9" f="5" val="NORTH" />
+
+    <dataarea id="30" t="238" l="452" w="23" h="9" f="5" val="PAN" />
+
+    <dataarea id="31" t="240" l="480" w="16" h="8" f="7" val="No." />
+
+    <dataarea id="32" t="326" l="0" w="917" h="1208" f="10" val="." />
+
+    <dataarea id="33" t="242" l="512" w="1" h="6" f="9" val=":" />
+
+    <dataarea id="34" t="241" l="517" w="78" h="10" f="8" val="AAACWOsger" />
+
+    <dataarea id="35" t="250" l="43" w="51" h="10" f="8" val="Division" />
+
+    <dataarea id="36" t="255" l="156" w="2" h="6" f="11" val=":" />
+
+    <dataarea id="37" t="253" l="163" w="23" h="10" f="8" val="Nog" />
+
+    <dataarea id="38" t="260" l="452" w="56" h="10" f="5" val="GSTIN No." />
+
+    <dataarea id="39" t="261" l="514" w="1" h="1" f="12" val=":" />
+
+    <dataarea id="40" t="262" l="520" w="91" h="10" f="8" val="29AAACWO4ser" />
+
+    <dataarea id="41" t="263" l="612" w="19" h="8" f="7" val="128" />
+
+    <dataarea id="42" t="272" l="42" w="42" h="8" f="7" val="Rance" />
+
+    <dataarea id="43" t="274" l="152" w="37" h="10" f="8" val=":ENDo" />
+
+    <dataarea id="44" t="281" l="452" w="40" h="9" f="7" val="CIN No." />
+
+    <dataarea id="45" t="326" l="0" w="917" h="1208" f="10" val="." />
+
+    <dataarea id="46" t="287" l="510" w="1" h="1" f="12" val=":" />
+
+    <dataarea id="47" t="283" l="516" w="144" h="12" f="4" val="U28120kAtgrepTcosost1" />
+
+    <dataarea id="48" t="294" l="42" w="17" h="9" f="5" val="CR" />
+
+    <dataarea id="49" t="295" l="62" w="17" h="8" f="7" val="No." />
+
+    <dataarea id="50" t="299" l="152" w="2" h="6" f="9" val=":" />
+
+    <dataarea id="51" t="304" l="451" w="24" h="9" f="5" val="Date" />
+
+    <dataarea id="52" t="304" l="478" w="6" h="8" f="7" val="&amp;" />
+
+    <dataarea id="53" t="304" l="489" w="89" h="10" f="5" val="Time of Removal:" />
+
+    <dataarea id="54" t="308" l="639" w="49" h="10" f="5" val="10:32 PM" />
+
+    <dataarea id="55" t="320" l="41" w="35" h="12" f="4" val="Billing" />
+
+    <dataarea id="56" t="320" l="79" w="47" h="9" f="5" val="Address" />
+
+    <dataarea id="57" t="322" l="130" w="2" h="6" f="9" val=":" />
+
+    <dataarea id="58" t="329" l="450" w="49" h="12" f="4" val="Shipping" />
+
+    <dataarea id="59" t="330" l="504" w="46" h="10" f="8" val="Address" />
+
+    <dataarea id="60" t="333" l="555" w="2" h="6" f="9" val=":" />
+
+    <dataarea id="61" t="343" l="41" w="119" h="11" f="5" val="Ficus Pax PvT. Lt." />
+
+    <dataarea id="62" t="352" l="450" w="119" h="11" f="5" val="FIGus Pax PvT. Lto." />
+
+    <dataarea id="63" t="367" l="40" w="95" h="11" f="8" val="NO.95728 ALONG" />
+
+    <dataarea id="64" t="370" l="140" w="42" h="11" f="6" val="NH-207," />
+
+    <dataarea id="65" t="371" l="188" w="192" h="12" f="8" val="BANGALORE 560067 KARNATAKA" />
+
+    <dataarea id="66" t="377" l="450" w="143" h="13" f="6" val="NO.95/2B,ALONG NH-207," />
+
+    <dataarea id="67" t="380" l="598" w="73" h="10" f="8" val="BANGALORE" />
+
+    <dataarea id="68" t="382" l="676" w="37" h="9" f="5" val="seoosr" />
+
+    <dataarea id="69" t="400" l="449" w="35" h="10" f="8" val="GSTIN" />
+
+    <dataarea id="70" t="401" l="488" w="15" h="8" f="7" val="No" />
+
+    <dataarea id="71" t="404" l="553" w="1" h="6" f="9" val=":" />
+
+    <dataarea id="72" t="425" l="448" w="83" h="10" f="8" val="Purchase Order" />
+
+    <dataarea id="73" t="426" l="534" w="14" h="9" f="5" val="No" />
+
+    <dataarea id="74" t="428" l="555" w="2" h="7" f="13" val=":" />
+
+    <dataarea id="75" t="427" l="562" w="117" h="11" f="6" val="FPK-PO/1718!000368" />
+
+    <dataarea id="76" t="430" l="685" w="103" h="10" f="5" val="P Date: 11/6/2017" />
+
+    <dataarea id="77" t="448" l="447" w="28" h="9" f="5" val="Mode" />
+
+    <dataarea id="78" t="450" l="479" w="9" h="8" f="7" val="of" />
+
+    <dataarea id="79" t="450" l="492" w="50" h="11" f="6" val="Transport" />
+
+    <dataarea id="80" t="453" l="552" w="2" h="6" f="9" val=":-" />
+
+    <dataarea id="81" t="452" l="570" w="110" h="11" f="6" val="SAVANICARRYING" />
+
+    <dataarea id="82" t="466" l="55" w="37" h="10" f="5" val="TIN No" />
+
+    <dataarea id="83" t="468" l="97" w="2" h="6" f="9" val=":" />
+
+    <dataarea id="84" t="467" l="104" w="109" h="10" f="8" val="20AAACFSOS1E1ZN" />
+
+    <dataarea id="85" t="474" l="447" w="37" h="10" f="8" val="Vehicle" />
+
+    <dataarea id="86" t="475" l="488" w="14" h="8" f="7" val="No" />
+
+    <dataarea id="87" t="481" l="507" w="1" h="1" f="12" val=":" />
+
+    <dataarea id="88" t="476" l="513" w="67" h="10" f="8" val="WB11CBE0¢" />
+
+    <dataarea id="89" t="479" l="634" w="42" h="10" f="5" val="LR. No," />
+
+    <dataarea id="90" t="486" l="45" w="27" h="10" f="5" val="S No." />
+
+    <dataarea id="91" t="488" l="111" w="80" h="10" f="8" val="DESCRIPTION" />
+
+    <dataarea id="92" t="490" l="196" w="16" h="9" f="5" val="Or" />
+
+    <dataarea id="93" t="491" l="215" w="45" h="10" f="8" val="oons" />
+
+    <dataarea id="94" t="493" l="308" w="24" h="8" f="7" val="HSN" />
+
+    <dataarea id="95" t="494" l="380" w="17" h="8" f="7" val="No." />
+
+    <dataarea id="96" t="494" l="401" w="16" h="9" f="5" val="OF" />
+
+    <dataarea id="97" t="496" l="452" w="39" h="10" f="8" val="TOTAL" />
+
+    <dataarea id="98" t="497" l="518" w="30" h="9" f="5" val="RaTe" />
+
+    <dataarea id="99" t="499" l="571" w="53" h="10" f="8" val="|TAxABLE]" />
+
+    <dataarea id="100" t="500" l="644" w="34" h="10" f="8" val="cest" />
+
+    <dataarea id="101" t="326" l="0" w="917" h="1208" f="10" val="|" />
+
+    <dataarea id="102" t="502" l="703" w="32" h="10" f="8" val="sest" />
+
+    <dataarea id="103" t="326" l="0" w="917" h="1208" f="10" val="|" />
+
+    <dataarea id="104" t="503" l="760" w="27" h="9" f="5" val="isst" />
+
+    <dataarea id="105" t="504" l="813" w="39" h="10" f="8" val="TOTAL" />
+
+    <dataarea id="106" t="508" l="366" w="65" h="10" f="8" val="PackaAGES" />
+
+    <dataarea id="107" t="510" l="460" w="24" h="10" f="8" val="ary" />
+
+    <dataarea id="108" t="511" l="522" w="24" h="10" f="8" val="PER" />
+
+    <dataarea id="109" t="513" l="578" w="39" h="10" f="8" val="VALUE" />
+
+    <dataarea id="110" t="518" l="813" w="39" h="9" f="5" val="VALUE" />
+
+    <dataarea id="111" t="525" l="521" w="27" h="8" f="7" val="Unit" />
+
+    <dataarea id="112" t="548" l="653" w="14" h="9" f="5" val="Rs" />
+
+    <dataarea id="113" t="549" l="712" w="13" h="9" f="5" val="Rs" />
+
+    <dataarea id="114" t="550" l="766" w="14" h="10" f="8" val="Rs" />
+
+    <dataarea id="115" t="556" l="75" w="4" h="8" f="13" val="1" />
+
+    <dataarea id="116" t="326" l="0" w="917" h="1208" f="10" val="|" />
+
+    <dataarea id="117" t="557" l="142" w="124" h="10" f="7" val="sotan prnten sueev-" />
+
+    <dataarea id="118" t="326" l="0" w="917" h="1208" f="10" val="-" />
+
+    <dataarea id="119" t="564" l="433" w="5" h="7" f="13" val="o" />
+
+    <dataarea id="120" t="564" l="481" w="17" h="8" f="7" val="aer|" />
+
+    <dataarea id="121" t="326" l="0" w="917" h="1208" f="10" val="=-" />
+
+    <dataarea id="122" t="566" l="530" w="31" h="8" f="13" val="armse|" />
+
+    <dataarea id="123" t="567" l="572" w="20" h="9" f="5" val="ase." />
+
+    <dataarea id="124" t="326" l="0" w="917" h="1208" f="10" val="|" />
+
+    <dataarea id="125" t="571" l="777" w="19" h="8" f="7" val="0.00]" />
+
+    <dataarea id="126" t="572" l="808" w="38" h="9" f="5" val="«01,815" />
+
+    <dataarea id="127" t="573" l="847" w="14" h="8" f="13" val="2" />
+
+    <dataarea id="128" t="568" l="87" w="81" h="9" f="5" val="Teooxanis-790Y" />
+
+    <dataarea id="129" t="596" l="73" w="5" h="8" f="7" val="2]" />
+
+    <dataarea id="130" t="597" l="86" w="53" h="8" f="13" val="W-vikram" />
+
+    <dataarea id="131" t="598" l="142" w="35" h="9" f="5" val="sora" />
+
+    <dataarea id="132" t="599" l="180" w="129" h="10" f="7" val="Lin-20d0xt 1a0x100-| sos" />
+
+    <dataarea id="133" t="602" l="310" w="22" h="8" f="13" val="1000" />
+
+    <dataarea id="134" t="605" l="432" w="5" h="7" f="13" val="o" />
+
+    <dataarea id="135" t="605" l="480" w="17" h="8" f="13" val="aer|" />
+
+    <dataarea id="136" t="326" l="0" w="917" h="1208" f="10" val="-" />
+
+    <dataarea id="137" t="607" l="529" w="31" h="8" f="7" val="2ea4s|" />
+
+    <dataarea id="138" t="608" l="578" w="32" h="9" f="5" val="sees" />
+
+    <dataarea id="139" t="609" l="611" w="13" h="8" f="7" val="isl" />
+
+    <dataarea id="140" t="326" l="0" w="917" h="1208" f="10" val="-" />
+
+    <dataarea id="141" t="609" l="646" w="41" h="9" f="5" val="seaso)" />
+
+    <dataarea id="142" t="612" l="775" w="19" h="8" f="7" val="0.00]" />
+
+    <dataarea id="143" t="326" l="0" w="917" h="1208" f="10" val="-" />
+
+    <dataarea id="144" t="613" l="813" w="13" h="9" f="5" val="ss" />
+
+    <dataarea id="145" t="614" l="828" w="32" h="8" f="7" val="se8.33" />
+
+    <dataarea id="146" t="609" l="86" w="24" h="8" f="13" val="spur" />
+
+    <dataarea id="147" t="840" l="307" w="6" h="1" f="12" val="m" />
+
+    <dataarea id="148" t="834" l="316" w="27" h="14" f="3" val="ION]:" />
+
+    <dataarea id="149" t="835" l="427" w="5" h="8" f="13" val="0" />
+
+    <dataarea id="150" t="836" l="475" w="16" h="8" f="13" val="704" />
+
+    <dataarea id="151" t="838" l="567" w="17" h="7" f="13" val="444" />
+
+    <dataarea id="152" t="839" l="585" w="33" h="8" f="7" val="80767]" />
+
+    <dataarea id="153" t="840" l="636" w="100" h="10" f="5" val="26,080.40) 26,500.40" />
+
+    <dataarea id="154" t="842" l="771" w="19" h="8" f="13" val="0.00]" />
+
+    <dataarea id="155" t="843" l="803" w="53" h="9" f="5" val="«98,184.59" />
+
+    <dataarea id="156" t="854" l="151" w="27" h="3" f="14" val="he" />
+
+    <dataarea id="157" t="850" l="288" w="4" h="1" f="12" val="~" />
+
+    <dataarea id="158" t="853" l="317" w="49" h="19" f="15" val="Vsl" />
+
+    <dataarea id="159" t="859" l="561" w="70" h="10" f="8" val="Total Taxable" />
+
+    <dataarea id="160" t="861" l="635" w="29" h="9" f="5" val="Value" />
+
+    <dataarea id="161" t="865" l="795" w="59" h="10" f="8" val="444,807.67" />
+
+    <dataarea id="162" t="871" l="29" w="24" h="9" f="5" val="Noe" />
+
+    <dataarea id="163" t="871" l="58" w="31" h="10" f="8" val="Toxin" />
+
+    <dataarea id="164" t="872" l="92" w="33" h="9" f="5" val="words:" />
+
+    <dataarea id="165" t="872" l="129" w="32" h="10" f="8" val="FIFTY" />
+
+    <dataarea id="166" t="873" l="165" w="40" h="9" f="5" val="THREE" />
+
+    <dataarea id="167" t="874" l="209" w="67" h="10" f="8" val="THOUSAND" />
+
+    <dataarea id="168" t="875" l="289" w="95" h="21" f="0" val="HQMDRED" />
+
+    <dataarea id="169" t="878" l="388" w="55" h="10" f="8" val="SEVENTY" />
+
+    <dataarea id="170" t="879" l="448" w="18" h="9" f="5" val="SIX" />
+
+    <dataarea id="171" t="880" l="470" w="48" h="10" f="8" val="RUPEES" />
+
+    <dataarea id="172" t="881" l="521" w="25" h="8" f="7" val="AND" />
+
+    <dataarea id="173" t="326" l="0" w="917" h="1208" f="10" val="|" />
+
+    <dataarea id="174" t="882" l="561" w="48" h="10" f="5" val="Total Tax" />
+
+    <dataarea id="175" t="887" l="802" w="52" h="10" f="8" val="53,376.02" />
+
+    <dataarea id="176" t="884" l="29" w="42" h="9" f="5" val="NINETY" />
+
+    <dataarea id="177" t="885" l="75" w="70" h="10" f="8" val="TWO PAISA" />
+
+    <dataarea id="178" t="886" l="149" w="32" h="9" f="5" val="ONLY" />
+
+    <dataarea id="179" t="903" l="29" w="28" h="10" f="8" val="Batch" />
+
+    <dataarea id="180" t="904" l="61" w="17" h="8" f="7" val="No." />
+
+    <dataarea id="181" t="904" l="83" w="29" h="9" f="5" val="4217" />
+
+    <dataarea id="182" t="915" l="560" w="34" h="10" f="8" val="Round" />
+
+    <dataarea id="183" t="916" l="598" w="15" h="8" f="7" val="off" />
+
+    <dataarea id="184" t="920" l="831" w="21" h="8" f="13" val="041" />
+
+    <dataarea id="185" t="923" l="28" w="31" h="9" f="5" val="Grand" />
+
+    <dataarea id="186" t="924" l="63" w="80" h="10" f="7" val="Total Amount in" />
+
+    <dataarea id="187" t="927" l="147" w="68" h="9" f="5" val="words:FOUR" />
+
+    <dataarea id="188" t="928" l="219" w="78" h="9" f="7" val="LAKH NINETY" />
+
+    <dataarea id="189" t="929" l="301" w="36" h="9" f="5" val="EIGHT" />
+
+    <dataarea id="190" t="930" l="342" w="66" h="10" f="8" val="THOUSAND" />
+
+    <dataarea id="191" t="931" l="412" w="25" h="8" f="7" val="ONE" />
+
+    <dataarea id="192" t="932" l="442" w="107" h="11" f="8" val="HUNDRED EIGHTY" />
+
+    <dataarea id="193" t="935" l="560" w="17" h="9" f="5" val="[Net" />
+
+    <dataarea id="194" t="935" l="582" w="36" h="10" f="8" val="Invoice" />
+
+    <dataarea id="195" t="936" l="621" w="29" h="9" f="5" val="Value" />
+
+    <dataarea id="196" t="940" l="794" w="58" h="10" f="8" val="498,185,00" />
+
+    <dataarea id="197" t="936" l="28" w="25" h="10" f="8" val="FIVE" />
+
+    <dataarea id="198" t="937" l="57" w="48" h="9" f="5" val="RUPEES" />
+
+    <dataarea id="199" t="938" l="109" w="24" h="10" f="8" val="AND" />
+
+    <dataarea id="200" t="939" l="137" w="75" h="10" f="5" val="ZERO PAISA" />
+
+    <dataarea id="201" t="940" l="215" w="32" h="10" f="8" val="ONLY" />
+
+    <dataarea id="202" t="951" l="589" w="8" h="10" f="8" val="p" />
+
+    <dataarea id="203" t="956" l="27" w="42" h="10" f="8" val="Certfied" />
+
+    <dataarea id="204" t="957" l="73" w="39" h="10" f="5" val="that the" />
+
+    <dataarea id="205" t="959" l="115" w="53" h="10" f="8" val="particulars" />
+
+    <dataarea id="206" t="960" l="172" w="19" h="11" f="6" val="give" />
+
+    <dataarea id="207" t="960" l="195" w="30" h="9" f="5" val="above" />
+
+    <dataarea id="208" t="962" l="229" w="16" h="7" f="13" val="are" />
+
+    <dataarea id="209" t="961" l="248" w="20" h="9" f="5" val="true" />
+
+    <dataarea id="210" t="962" l="272" w="19" h="8" f="7" val="and" />
+
+    <dataarea id="211" t="963" l="295" w="35" h="8" f="13" val="correct" />
+
+    <dataarea id="212" t="963" l="333" w="19" h="8" f="7" val="and" />
+
+    <dataarea id="213" t="963" l="357" w="15" h="9" f="5" val="the" />
+
+    <dataarea id="214" t="965" l="375" w="37" h="8" f="7" val="amount" />
+
+    <dataarea id="215" t="968" l="556" w="24" h="11" f="6" val="Prep" />
+
+    <dataarea id="216" t="970" l="607" w="12" h="11" f="6" val="by" />
+
+    <dataarea id="217" t="971" l="739" w="61" h="13" f="8" val="Checked by" />
+
+    <dataarea id="218" t="970" l="27" w="45" h="10" f="8" val="indieated" />
+
+    <dataarea id="219" t="973" l="76" w="73" h="9" f="5" val="represents the" />
+
+    <dataarea id="220" t="973" l="152" w="25" h="10" f="8" val="price" />
+
+    <dataarea id="221" t="974" l="181" w="84" h="12" f="6" val="actually charged" />
+
+    <dataarea id="222" t="975" l="269" w="18" h="8" f="7" val="and" />
+
+    <dataarea id="223" t="976" l="291" w="49" h="10" f="5" val="that there" />
+
+    <dataarea id="224" t="977" l="344" w="7" h="8" f="7" val="is" />
+
+    <dataarea id="225" t="978" l="355" w="12" h="6" f="9" val="no" />
+
+    <dataarea id="226" t="977" l="371" w="20" h="9" f="5" val="flow" />
+
+    <dataarea id="227" t="977" l="395" w="9" h="8" f="7" val="of" />
+
+    <dataarea id="228" t="982" l="597" w="1" h="8" f="13" val="/" />
+
+    <dataarea id="229" t="983" l="26" w="48" h="9" f="5" val="additional" />
+
+    <dataarea id="230" t="985" l="78" w="68" h="10" f="8" val="consideration" />
+
+    <dataarea id="231" t="987" l="149" w="37" h="11" f="6" val="directly" />
+
+    <dataarea id="232" t="988" l="189" w="10" h="6" f="9" val="or" />
+
+    <dataarea id="233" t="988" l="203" w="39" h="12" f="4" val="indiretly" />
+
+    <dataarea id="234" t="988" l="245" w="24" h="10" f="8" val="from" />
+
+    <dataarea id="235" t="988" l="273" w="16" h="9" f="5" val="the" />
+
+    <dataarea id="236" t="990" l="292" w="30" h="11" f="6" val="buyer." />
+
+    <dataarea id="237" t="1027" l="553" w="20" h="13" f="2" val="2&#34;" />
+
+    <dataarea id="238" t="1033" l="670" w="17" h="9" f="5" val="For" />
+
+    <dataarea id="239" t="1034" l="690" w="49" h="10" f="8" val="Wadpack" />
+
+    <dataarea id="240" t="1034" l="742" w="19" h="9" f="5" val="PM." />
+
+    <dataarea id="241" t="1036" l="766" w="42" h="11" f="6" val="Limited.," />
+
+    <dataarea id="242" t="1043" l="25" w="32" h="10" f="8" val="cest" />
+
+    <dataarea id="243" t="1044" l="61" w="12" h="11" f="6" val="@" />
+
+    <dataarea id="244" t="1045" l="76" w="17" h="9" f="5" val="6%" />
+
+    <dataarea id="245" t="1057" l="24" w="32" h="9" f="5" val="sest" />
+
+    <dataarea id="246" t="1058" l="60" w="11" h="11" f="6" val="@" />
+
+    <dataarea id="247" t="1058" l="76" w="17" h="9" f="5" val="5%" />
+
+    <dataarea id="248" t="1070" l="24" w="27" h="9" f="5" val="lest" />
+
+    <dataarea id="249" t="1072" l="58" w="32" h="11" f="6" val="@0%" />
+
+    <dataarea id="250" t="1084" l="703" w="64" h="28" f="16" val="k" />
+
+    <dataarea id="251" t="1120" l="680" w="55" h="10" f="8" val="Authorized" />
+
+    <dataarea id="252" t="1121" l="739" w="49" h="12" f="4" val="Signatory" />
+
+
+
+</iqss>

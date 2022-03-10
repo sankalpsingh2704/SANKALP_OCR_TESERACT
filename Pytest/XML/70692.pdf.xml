@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<iqss>
+    <dataarea id="1" t="245" l="108" w="5" h="19" f="0" val=" " />
+
+    <dataarea id="2" t="245" l="254" w="252" h="19" f="0" val="                                                " />
+
+    <dataarea id="3" t="264" l="108" w="399" h="19" f="0" val="                                                                            " />
+
+    <dataarea id="4" t="289" l="108" w="383" h="19" f="0" val="Sankalp Narayan                                           " />
+
+    <dataarea id="5" t="312" l="108" w="5" h="17" f="2" val=" " />
+
+    <dataarea id="6" t="335" l="108" w="5" h="17" f="3" val=" " />
+
+    <dataarea id="7" t="368" l="108" w="114" h="16" f="4" val="OBJECTIVE: " />
+
+    <dataarea id="8" t="399" l="108" w="5" h="21" f="1" val=" " />
+
+    <dataarea id="9" t="425" l="108" w="708" h="21" f="1" val="To strive for excellence, while overcoming challenges and to foster my growth as a " />
+
+    <dataarea id="10" t="451" l="108" w="673" h="21" f="1" val="professional by acquiring new skills, broadening strategic vision and preferring " />
+
+    <dataarea id="11" t="476" l="108" w="285" h="21" f="1" val="sincerity to opportunism at work." />
+
+    <dataarea id="12" t="480" l="393" w="9" h="16" f="5" val="  " />
+
+    <dataarea id="13" t="502" l="108" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="14" t="541" l="108" w="126" h="16" f="4" val="ACADEMICS:  " />
+
+    <dataarea id="15" t="581" l="117" w="103" h="16" f="4" val="Examination " />
+
+    <dataarea id="16" t="581" l="306" w="105" h="16" f="4" val="Qualification " />
+
+    <dataarea id="17" t="581" l="518" w="58" h="16" f="4" val="Board/ " />
+
+    <dataarea id="18" t="602" l="504" w="84" h="16" f="4" val="University " />
+
+    <dataarea id="19" t="581" l="627" w="62" h="16" f="4" val="Year of " />
+
+    <dataarea id="20" t="602" l="627" w="63" h="16" f="4" val="Passing " />
+
+    <dataarea id="21" t="581" l="719" w="84" h="16" f="4" val="Aggregate " />
+
+    <dataarea id="22" t="641" l="108" w="74" h="16" f="5" val="B.E. CSE " />
+
+    <dataarea id="23" t="641" l="330" w="57" h="16" f="5" val="GGITS " />
+
+    <dataarea id="24" t="641" l="520" w="53" h="16" f="5" val="RGPV " />
+
+    <dataarea id="25" t="641" l="637" w="41" h="16" f="5" val="2016 " />
+
+    <dataarea id="26" t="641" l="712" w="98" h="16" f="5" val="  6.85 CGPA " />
+
+    <dataarea id="27" t="681" l="108" w="30" h="16" f="5" val="XII " />
+
+    <dataarea id="28" t="681" l="242" w="169" h="16" f="5" val="BAL BHARTI INTER " />
+
+    <dataarea id="29" t="712" l="242" w="87" h="16" f="5" val="COLLEGE " />
+
+    <dataarea id="30" t="681" l="508" w="76" h="16" f="5" val="UP Board " />
+
+    <dataarea id="31" t="681" l="637" w="41" h="16" f="5" val="2010 " />
+
+    <dataarea id="32" t="681" l="735" w="51" h="16" f="5" val="62.4% " />
+
+    <dataarea id="33" t="762" l="108" w="17" h="16" f="5" val="X " />
+
+    <dataarea id="34" t="762" l="242" w="219" h="16" f="5" val="RAJDEV PUBLIC SCHOOL " />
+
+    <dataarea id="35" t="762" l="508" w="76" h="16" f="5" val="UP Board " />
+
+    <dataarea id="36" t="762" l="637" w="41" h="16" f="5" val="2008 " />
+
+    <dataarea id="37" t="762" l="733" w="55" h="16" f="5" val="64.5.% " />
+
+    <dataarea id="38" t="821" l="108" w="5" h="16" f="4" val=" " />
+
+    <dataarea id="39" t="870" l="108" w="672" h="16" f="4" val="CURRENT JOB: INFORMATION QUOTIENT SOFTWARE SERVICES PVT. LTD. " />
+
+    <dataarea id="40" t="900" l="108" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="41" t="921" l="108" w="690" h="16" f="5" val="Working as a full stack Developer/ Trainer on technologies Node.js/React.js, PHP, .NET MVC " />
+
+    <dataarea id="42" t="942" l="108" w="635" h="16" f="5" val="RAZOR, .NET class library, MYSQL, MS-SQL , Mongodb, Android develoeper, OCR " />
+
+    <dataarea id="43" t="963" l="108" w="308" h="16" f="5" val="developer. – 4 months present experience. " />
+
+    <dataarea id="44" t="983" l="108" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="45" t="1000" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="46" t="1005" l="116" w="204" h="17" f="5" val="  IQ Softwares- Projects: " />
+
+    <dataarea id="47" t="1026" l="135" w="641" h="16" f="4" val="IQ Invoice Management System- OCR product for reading contents from optical pdf’s " />
+
+    <dataarea id="48" t="1047" l="135" w="591" h="16" f="5" val="and technology includes Linux Shell Script, PHP Server, .NET MVC4 Web App, " />
+
+    <dataarea id="49" t="1067" l="135" w="141" h="16" f="5" val="MYSQL,MSSQL.  " />
+
+    <dataarea id="50" t="1084" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="51" t="1089" l="116" w="482" h="17" f="5" val="  Ant. Works – Class library for multi format document reading. " />
+
+    <dataarea id="52" t="1106" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="53" t="1111" l="116" w="456" h="17" f="5" val="  The Skin Store – PHP Web Project of www.theskinstore.in " />
+
+    <dataarea id="54" t="1128" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="55" t="1133" l="116" w="313" h="17" f="5" val="  D3JS – Highly Interactive Web Graphs. " />
+
+    <dataarea id="56" t="1150" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="57" t="1155" l="116" w="304" h="17" f="5" val="  Trainer/Developer : React.js/ Node.js " />
+
+    <dataarea id="58" t="1176" l="135" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="59" t="124" l="458" w="255" h="19" f="1" val="Email: sankalpn27@live.com " />
+
+    <dataarea id="60" t="149" l="458" w="287" h="19" f="1" val="Address: EWS-86 Dev Prayagam " />
+
+    <dataarea id="61" t="173" l="458" w="286" h="19" f="1" val="Jhawla, Allahabad, Uttar Pradesh " />
+
+    <dataarea id="62" t="197" l="458" w="201" h="19" f="1" val="Phone +919451852666 " />
+
+
+
+    <dataarea id="63" t="951" l="110" w="5" h="17" f="3" val=" " />
+
+    <dataarea id="64" t="952" l="115" w="100" h="16" f="4" val="PROJECTS:" />
+
+    <dataarea id="65" t="950" l="215" w="5" h="19" f="0" val=" " />
+
+    <dataarea id="66" t="973" l="110" w="5" h="19" f="0" val=" " />
+
+    <dataarea id="67" t="998" l="110" w="5" h="19" f="0" val=" " />
+
+    <dataarea id="68" t="1022" l="110" w="5" h="19" f="0" val=" " />
+
+    <dataarea id="69" t="1046" l="110" w="5" h="19" f="0" val=" " />
+
+    <dataarea id="70" t="1070" l="110" w="5" h="17" f="3" val=" " />
+
+    <dataarea id="71" t="91" l="108" w="5" h="16" f="4" val=" " />
+
+    <dataarea id="72" t="140" l="108" w="295" h="16" f="4" val="PREVIOUS JOB: UCERTIFY.COM  " />
+
+    <dataarea id="73" t="189" l="108" w="5" h="16" f="4" val=" " />
+
+    <dataarea id="74" t="219" l="108" w="696" h="16" f="4" val="PHP, Smarty, Ajax, Bootstrap, Android, Node.js, React.js, SASS, Google Cloud- Youtube, " />
+
+    <dataarea id="75" t="240" l="108" w="664" h="16" f="4" val="Firebase --- Application Developer at uCertify Simulation Lab IT Training Certification " />
+
+    <dataarea id="76" t="261" l="108" w="299" h="16" f="5" val="Company – 8 month working experience " />
+
+    <dataarea id="77" t="281" l="108" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="78" t="298" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="79" t="303" l="116" w="168" h="17" f="5" val="  uCertify- Projects: " />
+
+    <dataarea id="80" t="324" l="135" w="666" h="16" f="4" val="YouTube Video Splitter &amp; Merger- Web Application- PHP, AJAX, Bootstrap, FFMPEG, " />
+
+    <dataarea id="81" t="345" l="135" w="241" h="16" f="5" val="Media Streaming, MPEG DASH " />
+
+    <dataarea id="82" t="362" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="83" t="367" l="116" w="633" h="17" f="5" val="  Microsoft Windows 10 and Microsoft Office 2016 Simulation Web Applications " />
+
+    <dataarea id="84" t="388" l="135" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="85" t="408" l="108" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="86" t="448" l="108" w="189" h="16" f="4" val="TECHNICAL SKILLS: " />
+
+    <dataarea id="87" t="468" l="162" w="5" h="16" f="4" val=" " />
+
+    <dataarea id="88" t="484" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="89" t="489" l="116" w="293" h="17" f="5" val="  Subjects   :  Data Structures, DBMS. " />
+
+    <dataarea id="90" t="506" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="91" t="511" l="116" w="677" h="17" f="5" val="  Language Skills:  C, C++, Java, C#, PHP, JavaScript, XAML, XML, React.js, Angular.js, " />
+
+    <dataarea id="92" t="532" l="135" w="329" h="16" f="5" val="Node.js, Jade, Stylus, Express, JQuery, D3js. " />
+
+    <dataarea id="93" t="549" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="94" t="554" l="116" w="693" h="17" f="5" val="  Databases: Oracle, Microsoft SQL Server, MySQL, MongoDB, Entity Framework, Firebase " />
+
+    <dataarea id="95" t="571" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="96" t="576" l="116" w="685" h="17" f="5" val="  Technical Tools: Visual Studio, Expression Blend, Adobe Photoshop (3D + Animation Art " />
+
+    <dataarea id="97" t="597" l="135" w="637" h="16" f="5" val="effects) &amp; Adobe Flash.                                                                                                       " />
+
+    <dataarea id="98" t="597" l="773" w="5" h="16" f="7" val="." />
+
+    <dataarea id="99" t="597" l="777" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="100" t="636" l="108" w="216" h="16" f="4" val="TECHNICAL TRAINING: " />
+
+    <dataarea id="101" t="675" l="108" w="5" h="16" f="4" val=" " />
+
+    <dataarea id="102" t="691" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="103" t="696" l="116" w="248" h="17" f="5" val="  Linux and PHP,Ajax, PostGres " />
+
+    <dataarea id="104" t="713" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="105" t="718" l="116" w="138" h="17" f="5" val="  Java &amp; Android " />
+
+    <dataarea id="106" t="735" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="107" t="740" l="116" w="514" h="17" f="5" val="  Advance C# 6.0 and Windows Phone ( Microsoft Virtual Academy) " />
+
+    <dataarea id="108" t="757" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="109" t="762" l="116" w="184" h="17" f="5" val="  Microsoft ASP.NET: " />
+
+    <dataarea id="110" t="783" l="135" w="671" h="16" f="5" val="ASPX Web Forms, Razor MVC4 with AJAX, ASP.NET Web API, Single Page Application " />
+
+    <dataarea id="111" t="804" l="135" w="49" h="16" f="5" val="(SPA) " />
+
+    <dataarea id="112" t="820" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="113" t="825" l="116" w="233" h="17" f="5" val="  Signal R,WCF Web Services " />
+
+    <dataarea id="114" t="842" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="115" t="847" l="116" w="173" h="17" f="5" val="  Angular.js with SPA " />
+
+    <dataarea id="116" t="864" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="117" t="869" l="116" w="358" h="17" f="5" val="  Node.js with Socket.IO, Bootstrap ,Jade,CSS3 " />
+
+    <dataarea id="118" t="886" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="119" t="891" l="116" w="103" h="17" f="5" val="  C and C++ " />
+
+    <dataarea id="120" t="908" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="121" t="914" l="116" w="281" h="17" f="5" val="  Computer Network Administration  " />
+
+    <dataarea id="122" t="953" l="162" w="5" h="17" f="2" val=" " />
+
+    <dataarea id="123" t="975" l="108" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="124" t="991" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="125" t="996" l="116" w="412" h="17" f="5" val="  Minor Project:  Library Management System in C++ " />
+
+    <dataarea id="126" t="1013" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="127" t="1019" l="116" w="147" h="17" f="5" val="  Major Project:   " />
+
+    <dataarea id="128" t="1040" l="135" w="79" h="16" f="4" val="MileSpy:  " />
+
+    <dataarea id="129" t="1060" l="135" w="301" h="16" f="4" val="Platforms: Android, Windows Phone 10 " />
+
+    <dataarea id="130" t="1081" l="135" w="361" h="16" f="4" val="Frontend Languages: XAML, XML, Angular.js " />
+
+    <dataarea id="131" t="1102" l="135" w="310" h="16" f="4" val="Backend Languages: C#, JAVA, Node.js " />
+
+    <dataarea id="132" t="1123" l="135" w="287" h="16" f="4" val="Database: JSON/Mongo DB with SSL " />
+
+    <dataarea id="133" t="1139" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="134" t="1144" l="116" w="141" h="17" f="5" val="  Event Projects: " />
+
+    <dataarea id="135" t="1165" l="162" w="329" h="16" f="4" val="Dream Jabalpur: ASP.NET MVC4 Project, " />
+
+    <dataarea id="136" t="1186" l="162" w="483" h="16" f="4" val="Microsoft Imagine Cup 2015: Keep Green (Windows Phone 8.1) " />
+
+
+
+    <dataarea id="137" t="372" l="110" w="207" h="16" f="4" val="EXTRA-CURRICULUM: " />
+
+    <dataarea id="138" t="86" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="139" t="91" l="116" w="135" h="17" f="5" val="  Live Projects:  " />
+
+    <dataarea id="140" t="112" l="135" w="428" h="16" f="4" val="Gyan Ganga Public School: Online infrastructure in PHP " />
+
+    <dataarea id="141" t="133" l="135" w="471" h="16" f="4" val="Universal Library: Online System + Online Library in Android " />
+
+    <dataarea id="142" t="154" l="135" w="563" h="16" f="4" val="Hotspot: First ever hotspot for windows 10 in .NET 4.6 Desktop Application " />
+
+    <dataarea id="143" t="174" l="135" w="486" h="16" f="4" val="Turnoff 8.1: A shutdown utility software for windows 10, 8.1 &amp; 7 " />
+
+    <dataarea id="144" t="191" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="145" t="196" l="116" w="441" h="17" f="5" val="  uCertify-IT Training Certification Company Projects: " />
+
+    <dataarea id="146" t="217" l="135" w="666" h="16" f="4" val="YouTube Video Splitter &amp; Merger- Web Application- PHP, AJAX, Bootstrap, FFMPEG, " />
+
+    <dataarea id="147" t="238" l="135" w="246" h="16" f="5" val="Media Streaming, MPEG DASH. " />
+
+    <dataarea id="148" t="258" l="135" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="149" t="275" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="150" t="280" l="116" w="699" h="17" f="5" val="  Youtube Downloader React: It is React super powered Youtube Downloader Web App, that " />
+
+    <dataarea id="151" t="301" l="135" w="481" h="16" f="5" val="is web app compatible and can be used as standalone android app: " />
+
+    <dataarea id="152" t="322" l="135" w="459" h="16" f="8" val="<a href="https://sankalpsoftwares.azurewebsites.net/youtubedownloader/" val="https://sankalpsoftwares.azurewebsites.net/youtubedownloader/</a>" />
+
+    <dataarea id="153" t="322" l="594" w="5" h="16" f="5" val="<a href="https://sankalpsoftwares.azurewebsites.net/youtubedownloader/" val=" </a>" />
+
+    <dataarea id="154" t="343" l="161" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="155" t="383" l="216" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="156" t="382" l="221" w="5" h="17" f="2" val=" " />
+
+    <dataarea id="157" t="411" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="158" t="416" l="116" w="357" h="17" f="5" val="  Participated in Microsoft Imagine Cup 2015. " />
+
+    <dataarea id="159" t="433" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="160" t="438" l="116" w="654" h="17" f="5" val="  Successfully organized E-KNACK online quiz competition in technical fest of college. " />
+
+    <dataarea id="161" t="455" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="162" t="460" l="116" w="510" h="17" f="5" val="  Successfully organized Dream Jabalpur inter college Competition " />
+
+    <dataarea id="163" t="477" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="164" t="482" l="116" w="356" h="17" f="5" val="  Participated in Tech for Seva event at Bhopal " />
+
+    <dataarea id="165" t="499" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="166" t="504" l="116" w="298" h="17" f="5" val="  Participated in Srijan event at Bhopal " />
+
+    <dataarea id="167" t="521" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="168" t="526" l="116" w="411" h="17" f="5" val="  Participated in IFAST 2015 event at MANIT Bhopal. " />
+
+    <dataarea id="169" t="543" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="170" t="548" l="116" w="5" h="17" f="5" val=" " />
+
+    <dataarea id="171" t="545" l="135" w="374" h="20" f="5" val="Participated in the event “Code Master” at GGITS " />
+
+    <dataarea id="172" t="564" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="173" t="570" l="116" w="412" h="17" f="5" val="  Attended Microsoft Azure workshop held in GGITS. " />
+
+    <dataarea id="174" t="587" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="175" t="592" l="116" w="441" h="17" f="5" val="  Participated in TCS CodeVita, Testimony and MobiViz. " />
+
+    <dataarea id="176" t="609" l="108" w="8" h="22" f="6" val="" />
+
+    <dataarea id="177" t="614" l="116" w="691" h="17" f="5" val="  Delivered seminars, presented projects and have experience of anchoring &amp; leading group of " />
+
+    <dataarea id="178" t="635" l="135" w="51" h="16" f="5" val="teams. " />
+
+    <dataarea id="179" t="674" l="108" w="154" h="16" f="4" val="ACHIEVEMENTS:" />
+
+    <dataarea id="180" t="675" l="262" w="4" h="15" f="9" val=" " />
+
+    <dataarea id="181" t="694" l="108" w="4" h="15" f="10" val=" " />
+
+    <dataarea id="182" t="709" l="135" w="8" h="20" f="11" val="" />
+
+    <dataarea id="183" t="713" l="143" w="678" h="15" f="10" val="  Successfully Published my Research Paper on  Virtual Mobile System at International Journal " />
+
+    <dataarea id="184" t="733" l="162" w="374" h="15" f="9" val="of Advanced &amp; Innovative Research IISN:2278-7844 " />
+
+    <dataarea id="185" t="748" l="135" w="8" h="20" f="11" val="" />
+
+    <dataarea id="186" t="753" l="143" w="632" h="15" f="10" val="  Launched my first innovative Desktop Application HOTSPOT for Windows 10 on CNET, " />
+
+    <dataarea id="187" t="772" l="162" w="598" h="15" f="9" val="ZDNET, SOFTPEDIA, SOURCEFORGE Dated at 15/12/2015 and completed 30000+ " />
+
+    <dataarea id="188" t="792" l="162" w="82" h="15" f="9" val="Downloads " />
+
+    <dataarea id="189" t="806" l="135" w="8" h="20" f="11" val="" />
+
+    <dataarea id="190" t="811" l="143" w="645" h="15" f="10" val="  Launched my second utility software Turnoff 8.1 in 2014 completed 1000+ Downloads from " />
+
+    <dataarea id="191" t="830" l="162" w="167" h="15" f="9" val="CNET and Sourceforge " />
+
+    <dataarea id="192" t="850" l="162" w="488" h="15" f="9" val="Details about both Software’s hosted on www.sankalpsoftwares.com  " />
+
+    <dataarea id="193" t="864" l="135" w="8" h="22" f="6" val="" />
+
+    <dataarea id="194" t="869" l="143" w="351" h="17" f="5" val="  Secured 2nd position in college event Srijan. " />
+
+    <dataarea id="195" t="886" l="135" w="8" h="22" f="6" val="" />
+
+    <dataarea id="196" t="892" l="143" w="380" h="17" f="5" val="  Organized Inter college Event Dream Jabalpur   " />
+
+    <dataarea id="197" t="913" l="161" w="5" h="17" f="2" val=" " />
+
+    <dataarea id="198" t="935" l="161" w="5" h="17" f="2" val=" " />
+
+    <dataarea id="199" t="958" l="161" w="5" h="17" f="2" val=" " />
+
+    <dataarea id="200" t="998" l="108" w="92" h="16" f="4" val="HOBBIES: " />
+
+    <dataarea id="201" t="1037" l="108" w="1292" h="16" f="5" val="Application Development, Research, Photo Editing, Tech News, Cricket, Football, Table tennis                                                                                                                                      " />
+
+    <dataarea id="202" t="1057" l="108" w="9" h="16" f="7" val=". " />
+
+    <dataarea id="203" t="1057" l="117" w="121" h="16" f="5" val="                           " />
+
+    <dataarea id="204" t="1096" l="108" w="5" h="16" f="4" val=" " />
+
+    <dataarea id="205" t="1135" l="108" w="5" h="16" f="4" val=" " />
+
+    <dataarea id="206" t="1174" l="108" w="5" h="16" f="4" val=" " />
+
+
+
+    <dataarea id="207" t="91" l="108" w="5" h="16" f="4" val=" " />
+
+    <dataarea id="208" t="129" l="108" w="197" h="16" f="4" val="PERSONAL DETAILS:  " />
+
+    <dataarea id="209" t="164" l="108" w="58" h="16" f="5" val="Name   " />
+
+    <dataarea id="210" t="164" l="216" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="211" t="164" l="270" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="212" t="164" l="324" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="213" t="164" l="378" w="10" h="16" f="5" val=": " />
+
+    <dataarea id="214" t="164" l="432" w="133" h="16" f="5" val="Sankalp Narayan  " />
+
+    <dataarea id="215" t="197" l="108" w="100" h="16" f="5" val="Date of Birth " />
+
+    <dataarea id="216" t="197" l="382" w="127" h="16" f="5" val=":          27/6/1992 " />
+
+    <dataarea id="217" t="230" l="108" w="108" h="16" f="5" val="Father s Name " />
+
+    <dataarea id="218" t="230" l="382" w="179" h="16" f="5" val=":          Mr. Keshav Nath " />
+
+    <dataarea id="219" t="263" l="108" w="115" h="16" f="5" val="Mother s Name " />
+
+    <dataarea id="220" t="263" l="382" w="10" h="16" f="5" val=": " />
+
+    <dataarea id="221" t="263" l="432" w="140" h="16" f="5" val="Mrs. Madhu Singh " />
+
+    <dataarea id="222" t="263" l="594" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="223" t="296" l="108" w="57" h="16" f="5" val="Gender " />
+
+    <dataarea id="224" t="296" l="382" w="10" h="16" f="5" val=": " />
+
+    <dataarea id="225" t="296" l="432" w="41" h="16" f="5" val="Male " />
+
+    <dataarea id="226" t="329" l="108" w="85" h="16" f="5" val="Nationality " />
+
+    <dataarea id="227" t="329" l="382" w="10" h="16" f="5" val=": " />
+
+    <dataarea id="228" t="329" l="432" w="50" h="16" f="5" val="Indian " />
+
+    <dataarea id="229" t="362" l="108" w="82" h="16" f="5" val="Languages " />
+
+    <dataarea id="230" t="362" l="382" w="10" h="16" f="5" val=": " />
+
+    <dataarea id="231" t="362" l="432" w="109" h="16" f="5" val="Hindi, English " />
+
+    <dataarea id="232" t="395" l="108" w="5" h="16" f="5" val=" " />
+
+    <dataarea id="233" t="432" l="108" w="145" h="16" f="4" val="DECLARATION: " />
+
+    <dataarea id="234" t="491" l="108" w="650" h="16" f="5" val="I hereby declare that all above information is true to the best of my knowledge and belief. " />
+
+    <dataarea id="235" t="551" l="108" w="115" h="16" f="4" val="Date: 8/7/2016 " />
+
+    <dataarea id="236" t="658" l="108" w="568" h="16" f="4" val="Place: Allahabad                                                                          Signature:     " />
+
+    <dataarea id="237" t="658" l="817" w="5" h="16" f="4" val=" " />
+
+    <dataarea id="238" t="678" l="108" w="5" h="16" f="5" val=" " />
+
+
+
+</iqss>
